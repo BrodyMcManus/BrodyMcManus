@@ -1,5 +1,11 @@
-## Hi there 👋
+## Welcome
 
+I'm currently completing my final semester as an astrophysics undergrad at the University of Toronto.
+On the astro side I'm looking into what stellar feedback effects are dominant in star cluster formation simulations with different initial conditions.
+On the physics side, I'm currently creating solutions for a subset of MMLU physics problems, which I will use to evaluate LLM reasoning ability.
+Overall, I'm trying to learn how to learn better. I hope to apply what I learn to contribute to AI Safety in some capacity that has not yet been determined.  
+
+Training for long-distance triathlons is my other main activity and would be super interested to connect with people who want to talk about this or AI Safety!
 <!--
 **BrodyMcManus/BrodyMcManus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
